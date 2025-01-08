@@ -3,8 +3,8 @@
 
 * _(ID, Name, Surname)_
 * Student N1: se13333, Abdurashidbek, Sadullaev (Team lead)
-* Student N2: se13418, Yusuf, Botirov (backend)
-* Student N3: se14204, Ilkhomov, Abduaziz (Front)
+* Student N2: se13418, Yusufbek, Botirov (backend)
+* Student N3: se14204, Abduaziz,Ilkhomov (Front)
 * Student N4:  Nurilla, Khikmatov (Design)
 
 ---
