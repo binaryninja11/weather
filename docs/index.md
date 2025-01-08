@@ -1,4 +1,4 @@
-# Weather App Wiki
+
 
 ## Introduction
 The Weather App is a simple web application that fetches and displays real-time weather information for any city. It is built with Flask (Python), HTML, and CSS and uses the OpenWeatherMap API to retrieve weather data. This application is designed to be lightweight, user-friendly, and easily deployable on platforms like Azure App Service.
