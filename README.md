@@ -1,43 +1,49 @@
+# Weather App
 
-## Team members:
-
-* _(ID, Name, Surname)_
-* Student N1: se13333, Abdurashidbek, Sadullaev (Team lead)
-* Student N2: se13418, Yusufbek, Botirov (backend)
-* Student N3: se14204, Abduaziz,Ilkhomov (Front)
-* Student N4:  Nurilla, Khikmatov (Design)
+## Team Members:
+- **Team Lead**: Abdurashidbek Sadullaev (ID: se13333)  
+- **Backend Developer**: Yusufbek Botirov (ID: se13418)  
+- **Frontend Developer**: Abduaziz Ilkhomov (ID: se14204)  
+- **UI/UX Designer**: Nurilla Khikmatov  
 
 ---
 
 ## Project Description:
-The Weather App is a lightweight, publicly accessible web application that displays weather information for any city. It provides a clean and intuitive interface, making it user-friendly and ideal for quick demonstrations and practice in web-based application development.
-
-This project utilizes **Flask** (backend), **HTML/CSS** (frontend), and integrates with a weather API to fetch real-time data.
+The Weather App is a lightweight, publicly accessible web application designed to fetch and display weather information for any city. It combines a clean, intuitive frontend with a robust backend powered by Flask and integrates seamlessly with the OpenWeatherMap API. This project demonstrates the team’s collaborative skills in web development and API integration.
 
 ---
 
 ## Key Features:
 1. **City Weather Display**  
-   - Shows current weather information for any city.
-   - Includes weather description and an icon based on conditions.
-   
-2. **Temperature Conversion**  
-   - Displays temperature in Celsius.
+   - Fetches and displays real-time weather information for any city.  
+   - Shows temperature in Celsius, weather description, and an icon based on weather conditions.
 
-3. **Lightweight and Open Access**  
+2. **Lightweight and Open Access**  
    - No login or user authentication required.  
-   - Fully open and accessible to anyone.
+   - Fully open and accessible to all users.
+
+3. **User-Friendly Design**  
+   - Clean, responsive, and intuitive interface.
 
 ---
 
 ## Technology Stack:
-- **Backend:** Flask
-- **Frontend:** HTML, CSS
-- **API:** Open Weather map
-- **Hosting Platform:** Azure
+- **Backend:** Flask (v2.x)  
+- **Frontend:** HTML, CSS  
+- **API:** OpenWeatherMap  
+- **Hosting Platform:** Azure  
 
 ---
 
 ## Future Enhancements:
-- Add temperature conversion (Fahrenheit support).
-- Implement geolocation for automatic weather detection.
+1. **Temperature Conversion**  
+   - Add support for Fahrenheit.
+
+2. **Geolocation Support**  
+   - Implement geolocation to auto-detect user’s location and show local weather.
+
+3. **Improved Responsiveness**  
+   - Optimize for all devices, including mobile phones and tablets.
+
+4. **Language Support**  
+   - English
