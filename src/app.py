@@ -24,5 +24,5 @@ def index():
             weather_data = {"error": "City not found!"}
     return render_template("index.html", weather_data=weather_data)
 
-if name == 'main':
-    app.run(host='0.0.0.0', port=5032, debug=True)
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5032, debug=True)
